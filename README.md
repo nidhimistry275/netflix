@@ -50,6 +50,7 @@ This project is a Netflix-inspired clone built with a focus on a visually appeal
 
 ## Output
 ![image](https://github.com/user-attachments/assets/1c13f5ef-57e5-4636-8f42-693a95e77318)
+
 ![image](https://github.com/user-attachments/assets/47df38ba-014c-47d7-8270-a600b99db252)
 
 
